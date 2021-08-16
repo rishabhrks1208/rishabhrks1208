@@ -1,5 +1,5 @@
 <h1 align="center">Hi! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50px"> , I'm Rishabh Kumar Singh</h1>
-<h3 align="center">Aspiring Software Engineer with great problem-solving skills and ability to perform well in a team.</h3>
+<h3 align="center">Aspiring Software Engineer with good problem-solving skills and ability to perform well in a team</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhrks1208&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhrks1208" /> </p>
 
